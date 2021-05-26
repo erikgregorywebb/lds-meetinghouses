@@ -1,5 +1,3 @@
-## Meetinghouses: A Proxy for Measuring Growth in the LDS Church
-
 ### Background
 
 When the Church of Jesus Christ of Latter-Day Saints was organized in a small town in New York in 1830, there were only six members. Today, the Mormon Church has grown to over [16 million members](https://www.sltrib.com/religion/2019/04/06/lds-church-tops-million/), with congregations in [160 countries](https://www.churchofjesuschrist.org/study/ensign/2005/01/news-of-the-church/church-growing-in-more-than-160-countries?lang=eng).
@@ -8,7 +6,7 @@ Leaders of the church have [taught](https://www.churchofjesuschrist.org/study/ge
 
 Given the ambitious scope of that prophecy, it’s no wonder that many parties, inside and outside the organization, are interested in measuring and tracking the growth of the LDS Church. While [high-level membership metrics](https://newsroom.churchofjesuschrist.org/facts-and-statistics) are shared bi-annually by church leadership, country or state-specific trends are not provided. **This project is an attempt to more preciously measure church growth by tracking changes in the number and distribution of meetinghouses and wards<sup>1</sup> over time.**
 
-*<sup>1</sup>Wards are the basic organizational unit of the Church, e.g., a congregation.
+*<sup>1</sup>Wards are the basic organizational unit of the Church, e.g., a congregation.*
 
 ### Data Source
 
@@ -49,7 +47,7 @@ For example, by comparing the list of meetinghouses in January 2020 and June 202
 
 ### Data Download
 
-#### May 2021
+**May 2021**
 - [LDS Meetinghouses](https://github.com/erikgregorywebb/lds-meetinghouses/blob/main/data/lds_meetinghouses_20210524.csv?raw=true) (4.02 MB)
 - [LDS Meetinghouse Assignments](https://github.com/erikgregorywebb/lds-meetinghouses/blob/main/data/lds_meetinghouse_assignments_20210524.csv?raw=true) (2.13 MB)
 
