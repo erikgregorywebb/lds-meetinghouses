@@ -1,4 +1,4 @@
-## Meetinghouses: A Proxy for Measuring Growth in the LDS Church
+## LDS Meetinghouses: A Proxy for Growth in the LDS Church
 
 ### Background
 
