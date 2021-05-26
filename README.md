@@ -14,7 +14,7 @@ Given the ambitious scope of that prophecy, it’s no wonder that many parties, 
 
 To help members or visitors locate worship services nearby, the Church provides a [meetinghouse locator](https://www.churchofjesuschrist.org/maps/meetinghouses/@33.228243,-111.579049,14) tool. After entering an address, the user is shown nearby meetinghouses and hours of ward worship services. 
 
-Since there are many thousands of meetinghouses owned by the Church across the world, it would be very difficult to collect meetinghouse and ward details manually. However, using the [back-end web service](https://ws.churchofjesuschrist.org/ws/maps/v1.0/services/) that powers the meetinghouse locator, it's possible to query the full list of meetinghouses, along with the ward units assigned to those meetinghouses. You can find a copy of the code used to extract and clean the data [here]().
+Since there are many thousands of meetinghouses owned by the Church across the world, it would be very difficult to collect meetinghouse and ward details manually. However, using the [back-end web service](https://ws.churchofjesuschrist.org/ws/maps/v1.0/services/) that powers the meetinghouse locator, it's possible to query the full list of meetinghouses, along with the ward units assigned to those meetinghouses. You can find a copy of the code used to extract and clean the data [here](https://github.com/erikgregorywebb/lds-meetinghouses/blob/main/scripts/base.R).
 
 *Note: The meetinghouse locator is publicly available online and is not restricted to authenticated users. Consequently, the underlying meetinghouse data is presumed to be open and available for collection and analysis.*
 
