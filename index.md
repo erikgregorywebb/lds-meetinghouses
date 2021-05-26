@@ -1,3 +1,4 @@
+## 
 ### Background
 
 When the Church of Jesus Christ of Latter-Day Saints was organized in a small town in New York in 1830, there were only six members. Today, the Mormon Church has grown to over [16 million members](https://www.sltrib.com/religion/2019/04/06/lds-church-tops-million/), with congregations in [160 countries](https://www.churchofjesuschrist.org/study/ensign/2005/01/news-of-the-church/church-growing-in-more-than-160-countries?lang=eng).
