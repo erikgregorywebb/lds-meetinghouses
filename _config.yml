@@ -1,6 +1,9 @@
 title: LDS Meetinghouses
 description: A Proxy for Growth in the LDS Church
 theme: jekyll-theme-cayman
-google_analytics: G-64E4B5KBLV
 github:
   is_project_page: false
+output: 
+  html_document:
+    includes:
+       in_header: GA_Script.html
