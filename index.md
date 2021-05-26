@@ -22,9 +22,9 @@ There are currently two data outputs: (1) a list of the ~19,000+ meetinghouses o
 
 **Meetinghouses Table**
 
-| id  | address  | latitude | longitude |
-| ------------- | ------------- | ------------- | ------------- |
-| 5272017-01-01  | 6695 South 2200 West, West Jordan, Utah 84084-2201 | 40.629395  | -111.9480540 |
+| id  | address  | city | state | country | latitude | longitude |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 5272017-01-01  | 6695 S 2200 W | West Jordan | Utah | USA | 40.629395  | -111.9480540 |
 
 **Meetinghouse Assignments Table**
 
@@ -48,8 +48,8 @@ For example, by comparing the list of meetinghouses in January 2020 and June 202
 ### Data Download
 
 **May 2021**
-- [LDS Meetinghouses](https://github.com/erikgregorywebb/lds-meetinghouses/blob/main/data/lds_meetinghouses_20210524.csv?raw=true) (4.02 MB)
-- [LDS Meetinghouse Assignments](https://github.com/erikgregorywebb/lds-meetinghouses/blob/main/data/lds_meetinghouse_assignments_20210524.csv?raw=true) (2.13 MB)
+- [Meetinghouses](https://github.com/erikgregorywebb/lds-meetinghouses/blob/main/data/lds_meetinghouses_20210524.csv?raw=true) (4.02 MB)
+- [Meetinghouse Assignments](https://github.com/erikgregorywebb/lds-meetinghouses/blob/main/data/lds_meetinghouse_assignments_20210524.csv?raw=true) (2.13 MB)
 
 ### Contact
 
