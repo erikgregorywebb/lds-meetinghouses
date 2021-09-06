@@ -1,3 +1,5 @@
+## LDS Meetinghouses
+
 ### Background
 
 When the Church of Jesus Christ of Latter-Day Saints was organized in a small town in New York in 1830, there were only six members. Today, the Mormon Church has grown to over [16 million members](https://www.sltrib.com/religion/2019/04/06/lds-church-tops-million/), with congregations in [160 countries](https://www.churchofjesuschrist.org/study/ensign/2005/01/news-of-the-church/church-growing-in-more-than-160-countries?lang=eng).
@@ -46,6 +48,10 @@ While these are interesting questions, the bigger prize is understanding how the
 For example, by comparing the list of meetinghouses in January 2020 and June 2021, we could infer which meetinghouses are new, where they are located, which meetinghouses have been closed, and where they are located. **Ultimately, this should serve as a kind of (imperfect) proxy for growth or migration effects within the church**. My intention is to capture monthly snapshots of this data, and then stich it together to analyze micro trends in growth.
 
 ### Data Download
+
+**September 2021**
+* GitHub: [Meetinghouses](https://github.com/erikgregorywebb/lds-meetinghouses/blob/main/data/lds_meetinghouses_20210906.csv). [Meetinghouse Assignments](https://github.com/erikgregorywebb/lds-meetinghouses/blob/main/data/lds_meetinghouse_assignments_20210906.csv)
+* Google Sheets: [Meetinghouses](https://docs.google.com/spreadsheets/d/1eRofc0z7ylnRzE3dYT2A5YWekeeogC5u2IwMpbJZH00/edit?usp=sharing), [Meetinghouse Assignments](https://docs.google.com/spreadsheets/d/1ZkszGYuxmO-jILyCcpTI3V2p-863immtFlEOb8ahAKk/edit?usp=sharing)
 
 **August 2021**
 * GitHub: [Meetinghouses](https://github.com/erikgregorywebb/lds-meetinghouses/blob/main/data/lds_meetinghouses_20210807.csv). [Meetinghouse Assignments](https://github.com/erikgregorywebb/lds-meetinghouses/blob/main/data/lds_meetinghouse_assignments_20210807.csv)
