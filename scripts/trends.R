@@ -1,0 +1,28 @@
+library(tidyverse)
+library(lubridate)
+library(sal)
+
+# import and combine files
+datalist = list()
+extract_dates = c('20210524', '20210603', '20210701', '20210807', '20210906', '20211003')
+for (i in 1:length(extract_dates)) {
+  url = paste('https://github.com/erikgregorywebb/lds-meetinghouses/blob/main/data/lds_meetinghouse_assignments_', extract_dates[i], '.csv?raw=true', sep = '')
+  temp = read_csv(url)
+  datalist[[i]] = temp %>% mutate(extract_date = extract_dates[i])
+}
+raw = do.call(rbind, datalist)
+
+# clean
+meetinghouse_assignments = raw %>% mutate(extract_date = ymd(extract_date))
+
+# aggregate
+meetinghouse_assignment_trend = meetinghouse_assignments %>%
+  group_by(extract_date, assignment_type) %>% count() %>%
+  arrange(extract_date, desc(n))
+
+# plot
+meetinghouse_assignment_trend %>%
+  filter(assignment_type %in% c('ward', 'stake')) %>%
+  ggplot(., aes(x = extract_date, y = n, col = assignment_type)) +
+  geom_line() +
+  facet_wrap(~assignment_type, scales = 'free')
