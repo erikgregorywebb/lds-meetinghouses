@@ -49,20 +49,24 @@ For example, by comparing the list of meetinghouses in January 2020 and June 202
 
 ### Data Download
 
+**October 2021**
+* GitHub: [Meetinghouses](https://github.com/erikgregorywebb/lds-meetinghouses/blob/main/data/lds_meetinghouses_20211003.csv), [Meetinghouse Assignments](https://github.com/erikgregorywebb/lds-meetinghouses/blob/main/data/lds_meetinghouse_assignments_20211003.csv)
+* Google Sheets: [Meetinghouses](https://docs.google.com/spreadsheets/d/1NEMh8kztuQRP-uh-BEBHexuJPcxF4adKuk15_ErAXp4/edit?usp=sharing), [Meetinghouse Assignments](https://docs.google.com/spreadsheets/d/1FgdBqGhNr-CFjfWCkjkJtivGfTSxCjpOCkU5eAEh0GI/edit?usp=sharing)
+
 **September 2021**
-* GitHub: [Meetinghouses](https://github.com/erikgregorywebb/lds-meetinghouses/blob/main/data/lds_meetinghouses_20210906.csv). [Meetinghouse Assignments](https://github.com/erikgregorywebb/lds-meetinghouses/blob/main/data/lds_meetinghouse_assignments_20210906.csv)
+* GitHub: [Meetinghouses](https://github.com/erikgregorywebb/lds-meetinghouses/blob/main/data/lds_meetinghouses_20210906.csv), [Meetinghouse Assignments](https://github.com/erikgregorywebb/lds-meetinghouses/blob/main/data/lds_meetinghouse_assignments_20210906.csv)
 * Google Sheets: [Meetinghouses](https://docs.google.com/spreadsheets/d/1eRofc0z7ylnRzE3dYT2A5YWekeeogC5u2IwMpbJZH00/edit?usp=sharing), [Meetinghouse Assignments](https://docs.google.com/spreadsheets/d/1ZkszGYuxmO-jILyCcpTI3V2p-863immtFlEOb8ahAKk/edit?usp=sharing)
 
 **August 2021**
-* GitHub: [Meetinghouses](https://github.com/erikgregorywebb/lds-meetinghouses/blob/main/data/lds_meetinghouses_20210807.csv). [Meetinghouse Assignments](https://github.com/erikgregorywebb/lds-meetinghouses/blob/main/data/lds_meetinghouse_assignments_20210807.csv)
+* GitHub: [Meetinghouses](https://github.com/erikgregorywebb/lds-meetinghouses/blob/main/data/lds_meetinghouses_20210807.csv), [Meetinghouse Assignments](https://github.com/erikgregorywebb/lds-meetinghouses/blob/main/data/lds_meetinghouse_assignments_20210807.csv)
 * Google Sheets: [Meetinghouses](https://docs.google.com/spreadsheets/d/1SSMOVpdTL-2jhMkrXfpT_s1tURePHY6-J38eVAX99m0/edit?usp=sharing), [Meetinghouse Assignments](https://docs.google.com/spreadsheets/d/1ffqjpb3Fis0-u_IMNkOqT1HOgIztkcsLpPqFqc9Y1p8/edit?usp=sharing)
 
 **July 2021**
-* GitHub: [Meetinghouses](https://github.com/erikgregorywebb/lds-meetinghouses/blob/main/data/lds_meetinghouses_20210701.csv). [Meetinghouse Assignments](https://github.com/erikgregorywebb/lds-meetinghouses/blob/main/data/lds_meetinghouse_assignments_20210701.csv)
+* GitHub: [Meetinghouses](https://github.com/erikgregorywebb/lds-meetinghouses/blob/main/data/lds_meetinghouses_20210701.csv), [Meetinghouse Assignments](https://github.com/erikgregorywebb/lds-meetinghouses/blob/main/data/lds_meetinghouse_assignments_20210701.csv)
 * Google Sheets: [Meetinghouses](https://docs.google.com/spreadsheets/d/1PPo58Za5ClyQsD-7oYzJm0BNugadML9KSm_BTxs65q0/edit?usp=sharing), [Meetinghouse Assignments](https://docs.google.com/spreadsheets/d/1ZZMJpcaIge_bt41VYKt17ewmc-jKOFyx5OkwqmMwe_g/edit?usp=sharing)
 
 **June 2021**
-* GitHub: [Meetinghouses](https://github.com/erikgregorywebb/lds-meetinghouses/blob/main/data/lds_meetinghouses_20210603.csv). [Meetinghouse Assignments](https://github.com/erikgregorywebb/lds-meetinghouses/blob/main/data/lds_meetinghouse_assignments_20210603.csv)
+* GitHub: [Meetinghouses](https://github.com/erikgregorywebb/lds-meetinghouses/blob/main/data/lds_meetinghouses_20210603.csv), [Meetinghouse Assignments](https://github.com/erikgregorywebb/lds-meetinghouses/blob/main/data/lds_meetinghouse_assignments_20210603.csv)
 * Google Sheets: [Meetinghouses](https://docs.google.com/spreadsheets/d/1ua97D3cL1RZ3_6mE4OUfkbvdeMp-8ZcfYmjJ3pU52Y4/edit?usp=sharing), [Meetinghouse Assignments](https://docs.google.com/spreadsheets/d/179tEEsgPUiyXFXLqv1SkF09EX7oqye8H_3eZH5t8RzM/edit?usp=sharing)
 
 **May 2021**
