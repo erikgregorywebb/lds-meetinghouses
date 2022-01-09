@@ -1,10 +1,11 @@
 library(tidyverse)
 library(lubridate)
 library(sal)
+library(scales)
 
 # import and combine files
 datalist = list()
-extract_dates = c('20210524', '20210603', '20210701', '20210807', '20210906', '20211003')
+extract_dates = c('20210524', '20210603', '20210701', '20210807', '20210906', '20211003', '20211106', '20211207', '20220109')
 for (i in 1:length(extract_dates)) {
   url = paste('https://github.com/erikgregorywebb/lds-meetinghouses/blob/main/data/lds_meetinghouse_assignments_', extract_dates[i], '.csv?raw=true', sep = '')
   temp = read_csv(url)
@@ -24,5 +25,6 @@ meetinghouse_assignment_trend = meetinghouse_assignments %>%
 meetinghouse_assignment_trend %>%
   filter(assignment_type %in% c('ward', 'stake')) %>%
   ggplot(., aes(x = extract_date, y = n, col = assignment_type)) +
+  scale_y_continuous(breaks= pretty_breaks(), labels = comma) + 
   geom_line() +
   facet_wrap(~assignment_type, scales = 'free')
