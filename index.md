@@ -49,6 +49,10 @@ For example, by comparing the list of meetinghouses in January 2020 and June 202
 
 ### Data Download
 
+**February 2022**
+* GitHub: [Meetinghouses](https://github.com/erikgregorywebb/lds-meetinghouses/blob/main/data/lds_meetinghouses_20220205.csv), [Meetinghouse Assignments](https://github.com/erikgregorywebb/lds-meetinghouses/blob/main/data/lds_meetinghouse_assignments_20220205.csv)
+* Google Sheets: [Meetinghouses](https://docs.google.com/spreadsheets/d/1blY92LJa6ibQKZmJ1sei-nfAT0rOqx0GIecvZ3Hb1P0/edit?usp=sharing), [Meetinghouse Assignments](https://docs.google.com/spreadsheets/d/19nZicZIKN3uTC25k8prgYxR1J3ZYSHlBCgId9wRBeZ8/edit?usp=sharing)
+
 **January 2022**
 * GitHub: [Meetinghouses](https://github.com/erikgregorywebb/lds-meetinghouses/blob/main/data/lds_meetinghouses_20220109.csv), [Meetinghouse Assignments](https://github.com/erikgregorywebb/lds-meetinghouses/blob/main/data/lds_meetinghouse_assignments_20220109.csv)
 * Google Sheets: [Meetinghouses](https://docs.google.com/spreadsheets/d/1G9QJoOmYbSOijOqJN406uEaufjNmaAXML5kfftQEh0k/edit?usp=sharing), [Meetinghouse Assignments](https://docs.google.com/spreadsheets/d/1rn8aROLWWEm6esvASh0IvvK6ybbACVcIHsa0t0xAjpM/edit?usp=sharing)
