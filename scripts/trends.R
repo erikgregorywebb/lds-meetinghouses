@@ -5,7 +5,7 @@ library(scales)
 
 # import and combine files
 datalist = list()
-extract_dates = c('20210524', '20210603', '20210701', '20210807', '20210906', '20211003', '20211106', '20211207', '20220109')
+extract_dates = c('20210524', '20210603', '20210701', '20210807', '20210906', '20211003', '20211106', '20211207', '20220109', '20220205', '20220304')
 for (i in 1:length(extract_dates)) {
   url = paste('https://github.com/erikgregorywebb/lds-meetinghouses/blob/main/data/lds_meetinghouse_assignments_', extract_dates[i], '.csv?raw=true', sep = '')
   temp = read_csv(url)
